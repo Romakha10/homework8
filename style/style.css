@@ -1,0 +1,144 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+}
+
+ul {
+  list-style: none;
+}
+
+.conteiner {
+  display: flex;
+}
+
+.skyhouse {
+  margin-left: 240px;
+  width: 97px;
+  height: 55px;
+}
+
+header {
+  background-color: #0020f4;
+  width: 1475;
+  height: 91px;
+}
+nav {
+  color: white;
+}
+.navbar {
+  display: flex;
+  margin-left: 20px;
+  align-items: center;
+}
+
+.navbar-1 ul {
+  display: flex;
+}
+.div-flex {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.navbar-1 li {
+  margin: 18px;
+  color: white;
+}
+.navbar {
+  vertical-align: middle;
+  color: white;
+}
+
+.contacte {
+  background-color: white;
+  border: none;
+  padding: 18px 36px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+}
+.contacte a {
+  color: #171717;
+  font-weight: bolder;
+}
+
+.section-div {
+  display: flex;
+  margin-top: 200px;
+}
+.section-div {
+  justify-content: space-between;
+  align-items: center;
+}
+
+.section-div1 {
+  display: flex;
+  margin-top: 30px;
+}
+
+.div-point {
+  display: flex;
+  margin-left: 240px;
+  margin-top: 60px;
+}
+.div-point {
+  display: flex;
+}
+.servisi-1 {
+  margin-right: 25px;
+}
+.servisi-1 h2 {
+  color: #171717;
+  font-size: 22px;
+  margin-top: 20px;
+}
+.servisi-1 p {
+  padding-top: 20px;
+}
+.servisi {
+  margin-left: 240px;
+  color: #171717;
+  font-size: 32px;
+}
+.point {
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  background-color: #0020f4;
+}
+.point1 {
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  background-color: grey;
+  opacity: 30%;
+  margin-left: 20px;
+}
+.point2 {
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  background-color: grey;
+  opacity: 30%;
+  margin-left: 20px;
+}
+.div-square {
+  display: flex;
+}
+.box {
+  width: 70px;
+  height: 70px;
+  background-color: grey;
+}
+.box-2 {
+  width: 70px;
+  height: 70px;
+  background-color: #0a22f4;
+}
+
+.box-3 {
+  width: 70px;
+  height: 70px;
+  background-color: grey;
+}
